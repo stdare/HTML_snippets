@@ -1,0 +1,6 @@
+<html>
+The following link uses JS to interface with the browser history and create a previous page HREF link
+
+<a href="javascript:javascript:history.go(-1)">Go back one page</a>
+
+</html>
